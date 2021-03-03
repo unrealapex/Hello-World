@@ -1,2 +1,2 @@
 # Hello-World
-the first of many repos
+Hello World in every langauge
